@@ -1,0 +1,11 @@
+baseURL = 'https://corekcioglu.com/'
+languageCode = 'en-us'
+title = 'Burak Çörekcioğlu'
+theme = 'hugo-theme-monochrome'
+
+sectionPagesMenu = "main"
+
+[params]
+    subtitle = "A curious developer"
+    footer = "Copyright © 2024 by Burak Çörekcioğlu"
+    enable_collapsible_toc = false
